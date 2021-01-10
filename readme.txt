@@ -4,5 +4,5 @@ Git is free software under GPL.
 Git is popular.
 
 Creating a new branch is brilliant!
---------------------------------------
+**********************************
 
